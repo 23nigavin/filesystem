@@ -1,0 +1,10 @@
+filesystem/Root.class
+resources/Metadata.class
+Main.class
+resources/Document.class
+handlers/Handler.class
+interfaces/FolderResource.class
+interfaces/MetadataResource.class
+interfaces/FileSystemResource.class
+interfaces/DocumentResource.class
+resources/Folder.class
